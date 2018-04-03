@@ -1,0 +1,10 @@
+body {
+	margin: 40px;
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+};
+
+.carButton {
+	margin: 10px;
+};
